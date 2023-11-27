@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3067dca0-5f0d-41f8-929e-3e42093b068a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comp432.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Comp432.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <updated>1701001919865</updated>
       <workItem from="1701001920912" duration="398000" />
       <workItem from="1701002342862" duration="9855000" />
-      <workItem from="1701093057904" duration="4149000" />
+      <workItem from="1701093057904" duration="6188000" />
     </task>
     <servers />
   </component>
