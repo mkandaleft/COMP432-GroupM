@@ -8,6 +8,7 @@ This project involves the study of a computer vision task using deep learning CN
 # Instructions
 
 We developed our project in a Jupyter notebook hosted on Google Colab: 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkandaleft/COMP432-GroupM/blob/main/Comp432.ipynb)
 
 All library requirements should be automatically fulfilled by running its first cell.
