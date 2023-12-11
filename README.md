@@ -19,5 +19,5 @@ Training and validation of the custom ResNet18 model are handled by the cells in
 - Instructions on how to run the pre-trained model on the provided sample test dataset
   
 - Your source code package in PyTorch
-  
-- Description on how to obtain the Dataset from an available download link
+
+A sample dataset (3 times 100 images, each distributed between 3 classes) can be downloaded as part of this repo.
