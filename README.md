@@ -12,8 +12,9 @@ We developed our project in a Jupyter notebook hosted on Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkandaleft/COMP432-GroupM/blob/main/Comp432.ipynb)
 
 All library requirements should be automatically fulfilled by running its first cell.
-  
-- Instruction on how to train/validate your model
+
+Training and validation of the custom ResNet18 model are handled by the cells in the 'Task 1' section. Run them one sequentially. The necessary data should be downloaded automatically, though the !gdown command may need to be uncommented.
+
   
 - Instructions on how to run the pre-trained model on the provided sample test dataset
   
