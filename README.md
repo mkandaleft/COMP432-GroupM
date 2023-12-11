@@ -16,8 +16,15 @@ All library requirements should be automatically fulfilled by running its first 
 Training and validation of the custom ResNet18 model are handled by the cells in the 'Task 1' section. Run them one sequentially. The necessary data should be downloaded automatically, though the !gdown command may need to be uncommented.
 
   
-- Instructions on how to run the pre-trained model on the provided sample test dataset
-  
+Instructions on how to run the pre-trained model on the provided sample test dataset:
+-  Load the pre-trained ResNet-18 CNN model trained in Task 1 as done in Task 2 for visualization of features in t-SNE
+-  Create a checkpoint using torch.load and set file path to resnet18_weights.pth
+-  Need to set the pretrained=True as such torchvision.models.resnet18(pretrained=True)
+-  Load the resnet18 model using load_state_dict function
+-  Download the sample dataset as done in Task 2 from the filepath "SampleTestDataset/ProstateCancer" for example using torchvision.datasets.ImageFolder and the transforms object
+-  The pre-trained model can be run on the desired sample datasets similar to how is done during testing for Task 1
+
+    
 - Your source code package in PyTorch
 
 A sample dataset (3 times 100 images, each distributed between 3 classes) can be downloaded as part of this repo.
